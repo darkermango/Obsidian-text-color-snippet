@@ -33,6 +33,7 @@ Change Text Color for all text in editing modde
 *****************************************
 */
 
+/* Defult color for users not using Style Settings plugin */
 :root
 {
     --user-typed-text:#ffa500;
