@@ -1,0 +1,53 @@
+/*
+*******************************
+Snippet to change user typed text
+*******************************
+*/
+
+/* gets input from user Defult Color:`#ffa500`
+
+/* @settings
+
+name: text-color-snippet
+id: Text-Color-Snippit
+settings:
+    - 
+        id: user-typed-text
+        title: Text Color
+        type: variable-color
+        opacity: false
+        format: hex
+        alt-format:
+            -
+                id: user-typed-text-rgb
+                format: rgb
+        default: '#ffa500'
+*/
+
+/* 
+*****************************************
+<Sumary>
+Change Text Color for all text in editing modde
+</Sumary>
+*****************************************
+*/
+
+/* For editing mode */
+.cm-s-obsidian, .cm-string {
+    color: var(--user-typed-text) !important;
+  }
+  
+  /* For read/preview mode */
+  .markdown-preview-view {
+    color: var(--user-typed-text) !important;
+  }
+  
+  /* For Bold Read View */
+  .cm-strong, strong
+  {
+    color: var(--user-typed-text) !important;
+  }
+  /*
+  ***********************************************************************
+  */
+
