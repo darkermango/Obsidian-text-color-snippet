@@ -1,6 +1,7 @@
 /*
 *******************************
-Snippet to change user typed text
+Snippet to change user typed text made by https://github.com/cheaderthecoder
+at https://github.com/cheaderthecoder/Text-color-snippet-obsidian ⭐ the repo if you like it.
 *******************************
 */
 
@@ -31,6 +32,11 @@ Change Text Color for all text in editing modde
 </Sumary>
 *****************************************
 */
+
+:root
+{
+    --user-typed-text:#ffa500;
+}
 
 /* For editing mode */
 .cm-s-obsidian, .cm-string {
