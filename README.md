@@ -40,11 +40,13 @@ Here are some examples to illustrate how the snippet affects your notes.
 
 ### Default Orange Color
 - All user-typed text will appear in orange.
-![image](https://github.com/user-attachments/assets/eb028914-1d4d-43e0-a745-a261debc69c7)
+![image](https://github.com/user-attachments/assets/fc1ba76f-510e-4f1b-bfbb-3c66d17daca1)
+
 
 ### Custom Color with Style Settings Plugin
 - Using the Style Settings plugin, you can set a custom color for your text.
-![image](https://github.com/user-attachments/assets/6d56388c-1676-414b-937f-1792c84cf82f)
+![image](https://github.com/user-attachments/assets/876bb74a-1f49-4c3b-90e2-2ba4c3bac291)
+
 
 
 ## Acknowledgements
