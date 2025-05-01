@@ -15,8 +15,8 @@ A CSS snippet for Obsidian that changes the color of all user-typed text in your
 
 ## Installation
 1. **Download the Snippet:**
-   - Download text-color.css from [releases tab](https://github.com/cheaderthecoder/Obsidian-text-color-snippet/releases/latest)
-   - Place the downloaded CSS file into your Obsidian snippets folder. This is typically found at `\.obsidian\snippets\` on Windows, or `~/Library/Application Support/obsidian/snippets/` on macOS.
+   - Download text-color.css from the [releases tab](https://github.com/cheaderthecoder/Obsidian-text-color-snippet/releases/latest).
+   - Place the downloaded CSS file into your Obsidian snippets folder. Typically found at `\.obsidian\snippets\` on Windows, or `~/Library/Application Support/obsidian/snippets/` on macOS.
 
 
 2. **Enable the Snippet:**
